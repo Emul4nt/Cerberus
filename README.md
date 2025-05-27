@@ -75,9 +75,9 @@ The web application is built with python/flask whereas the backend is going to b
 - [ ] PDF Generation
 - [ ] Interactive Dynamic Analysis
 - [ ] VM Hardening
-
-<img src="https://github.com/user-attachments/assets/96638590-beb3-4c28-afbd-8798bf31420b" width="80" height="80">
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/96638590-beb3-4c28-afbd-8798bf31420b" width="200" height="200">
+</div>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

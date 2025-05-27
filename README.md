@@ -8,13 +8,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Emul4nt/Cerberus">
-    <img src="https://github.com/user-attachments/assets/17bbc27d-10f3-4d54-a203-39842d9713e3" alt="Logo">
+    <img src="https://github.com/user-attachments/assets/17bbc27d-10f3-4d54-a203-39842d9713e3" alt="Logo" width="300" height="200">
   </a>
   <a href="https://github.com/Emul4nt/Cerberus">
-    <img src="https://github.com/user-attachments/assets/10ecdb2e-64ef-4a39-9a22-501ce1c036d9" alt="Logo">
+    <img src="https://github.com/user-attachments/assets/10ecdb2e-64ef-4a39-9a22-501ce1c036d9" alt="Logo" width="300" height="200">
   </a>
   <a href="https://github.com/Emul4nt/Cerberus">
-    <img src="https://github.com/user-attachments/assets/3e7c28fe-8e09-4801-baf1-2ac51927d1ce" alt="Logo">
+    <img src="https://github.com/user-attachments/assets/3e7c28fe-8e09-4801-baf1-2ac51927d1ce" alt="Logo" width="300" height="200">
   </a>
   <h3 align="center">Cerberus</h3>
 

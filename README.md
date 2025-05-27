@@ -76,7 +76,7 @@ The web application is built with python/flask whereas the backend is going to b
 - [ ] Interactive Dynamic Analysis
 - [ ] VM Hardening
 
-![image](https://github.com/user-attachments/assets/96638590-beb3-4c28-afbd-8798bf31420b)
+<img src="https://github.com/user-attachments/assets/96638590-beb3-4c28-afbd-8798bf31420b" width="80" height="80">
 
 
 
